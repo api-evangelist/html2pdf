@@ -1,0 +1,32 @@
+aid: html2pdf
+name: Html2PDF
+description: "HTML/URL to PDF"
+url: https://html2pdf.app/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Documents & Productivity"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Documents And Productivity
+  - Public APIs
+apis:
+  - name: Html2PDF
+    description: "HTML/URL to PDF"
+    humanURL: https://html2pdf.app/
+    baseURL: https://html2pdf.app/
+    tags:
+      - Documents And Productivity
+    properties:
+      - type: Documentation
+        url: https://html2pdf.app/
+common:
+  - type: Website
+    url: https://html2pdf.app/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
