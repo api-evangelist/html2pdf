@@ -40,7 +40,8 @@ apis:
   - name: Html2PDF
     description: "HTML/URL to PDF"
     humanURL: https://html2pdf.app/
-    tags:
+    tags: []
+    tags_raw:
       - Documents And Productivity
     properties:
       - type: Documentation
